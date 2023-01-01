@@ -8,7 +8,7 @@ venue: 'Journal of Global Optimization'
 # paperurl: 'https://doi.org/10.1007/s10898-019-00825-7'
 
 citation: 'Stefan Sremac, Fei Wang, Henry Wolkowicz, Lucas Petterson. (2019). &quot; Noisy Euclidean Distance Matrix Completion with a Single Missing Node.&quot; 
-<i>Journal of Global Optimization</i>. 75(4), Pages 973-1002.'
+<i>Journal of Global Optimization</i>. 75(4), Pages 973-1002'
 
 ---
 
