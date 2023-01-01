@@ -11,4 +11,3 @@ citation: 'Shiqian Ma, Fei Wang, Linchuan Wei, Henry Wolkowicz. (2020). &quot; R
 
 [Download paper here](https://doi.org/10.1007/s11081-019-09476-9)
 
-Recommended citation: Shiqian Ma, Fei Wang, Linchuan Wei, Henry Wolkowicz. (2020). &quot; Robust Principal Component Analysis using Facial Reduction. &quot; <i>Optimization and Engineering</i>. 21(3), Pages 1195-1219.
