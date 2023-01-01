@@ -11,5 +11,5 @@ citation: 'Marcia Fampa, Daniela Luke, Fei Wang, Henry Wolkowicz. (2020). &quot;
 
 ---
 
-[Download paper here](ttps://doi.org/10.1016/j.ejor.2019.08.027)
+[Download paper here](https://doi.org/10.1016/j.ejor.2019.08.027)
 
