@@ -8,6 +8,7 @@ venue: 'Arxiv Preprint'
 paperurl: 'https://doi.org/10.48550/arXiv.2211.00834'
 
 citation: 'Fei Wang, Henry Wolkowicz. (2022). &quot; Singularite degree of non-facially exposed faces.&quot; <i>10.48550/ARXIV.2211.00834v2</i>.'
+
 ---
 
 
