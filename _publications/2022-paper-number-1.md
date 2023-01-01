@@ -1,5 +1,5 @@
 ---
-title: "Singularity degree of non-facially exposed faces"
+title: "Singularity Degree of Non-Facially Exposed Faces"
 collection: publications
 permalink: /publication/2022-paper-number-1
 excerpt: ''
