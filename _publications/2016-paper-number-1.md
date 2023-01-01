@@ -7,9 +7,7 @@ date: 2016-12-01
 venue: 'ACM Communications in Computer Algebra'
 
 citation: "Fei Wang. (2016). &quot; Proof of a serie's solution for Eulers trinomial equation. &quot; 
-<i>2017 19th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing</i>.  Pages 86-93."
-
-
+<i>ACM Communications in Computer Algebra</i>. 50(4), Pages 136-144."
 ---
 
 [Download paper here](https://doi.org/10.1145/3055282.3055284)
