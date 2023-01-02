@@ -12,9 +12,9 @@ This is an introductory course to linear programming, integer programming, and a
 
 A broad introduction to the field of optimization, discussing applications, and solution techniques. Mathematical models for real life applications; algorithms; aspects of computational complexity; geometry; linear programming duality, focusing on the development of algorithms.
 
-
-[Outline of the course](https://outline.uwaterloo.ca/view/n4aszz)
 ======
 
-[Notes of the course](https://feiwang-carrot.github.io/files/CO250NotesS22.pdf)
-======
+[course Syllabus](https://outline.uwaterloo.ca/view/n4aszz)
+
+[Course Notes](https://feiwang-carrot.github.io/files/CO250NotesS22.pdf)
+
