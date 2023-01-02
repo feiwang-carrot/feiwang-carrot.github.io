@@ -1,5 +1,5 @@
 ---
-title: "CO 367 Nonlinear Optimization Fall 2021"
+title: "CO 367 Nonlinear Optimization, Fall 2021"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
