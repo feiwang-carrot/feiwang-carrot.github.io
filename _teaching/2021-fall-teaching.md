@@ -23,7 +23,6 @@ Topics:
 8. Algorithms for constrained optimization.
 9. Application to Deep Learning
 
-Tuesday and Thursday 14:30 - 15:50 MC 4058
 ======
 
 [View Course Syllabus Here](https://feiwang-carrot.github.io/files/CO367SyllabusF21.pdf)
