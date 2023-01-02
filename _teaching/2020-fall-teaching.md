@@ -1,11 +1,11 @@
 ---
-title: "Math 115 Nonlinear Optimization, Fall 2021"
+title: "Math 115 Linear Algebra for Engineering, Fall 2020"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-fall-teaching-1
-venue: "Department of Combinatorics & Optimization, University of Waterloo"
-date: 2021-09-01 
-location: "Waterloo, Ontario, Canada"
+permalink: /teaching/2020-fall-teaching
+venue: "University of Waterloo"
+date: 2020-09-01 
+location: "Online"
 ---
 
 Course Description: This is a course on linear algebra and its applications to engineering. Topics to be
@@ -26,4 +26,4 @@ including projections, reflections, and rotations
 
 ======
 
-[Course Syllabus](MATH115F20CourseSyllabus.pdf)
+[Course Syllabus](https://feiwang-carrot.github.io/files/MATH115F20CourseSyllabus.pdf)
