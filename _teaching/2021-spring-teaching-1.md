@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
 venue: "Department of Combinatorics & Optimization, University of Waterloo"
-date: 2021-05-01 
+date: 2021-09-01 
 location: "Waterloo, Ontario, Canada"
 ---
 
