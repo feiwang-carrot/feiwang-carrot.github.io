@@ -1,0 +1,12 @@
+---
+title: "proof of a series solution for Euler's trinomial equation"
+collection: talks
+type: "Conference talk"
+permalink: /talks/2016-07-25-talk
+venue: "Celebrating 2o years of the Lambert W function"
+date: 2016-07-25
+location: "London, Ontario, Canada"
+---
+
+n 1779, Leonhard Euler published a paper about Lambert's transcendental equation in the symmetric form. In the paper, he studied the series solution of this equation and other results based on an assumption which was not proved in the paper. Euler's paper gave the first series expanion for the so-called Lambert W function. In this work, we briefly review Euler's results and give a proof to modern standards of rigor of the series solution of Lambert's transcendental equation.
+
