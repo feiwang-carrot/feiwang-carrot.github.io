@@ -1,7 +1,7 @@
 ---
 title: "CO250 Introduction to optimization"
 collection: teaching
-type: "Class"
+type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching
 venue: "University of Waterloo, Department of Combinatorics and Optimization"
 date: 2022-05-01
