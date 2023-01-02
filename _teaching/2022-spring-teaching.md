@@ -10,7 +10,9 @@ location: "Waterloo, Ontario, Canada"
 
 This is an introductory course to linear programming, integer programming, and a very basic introduction to nonlinear optimization
 
+A broad introduction to the field of optimization, discussing applications, and solution techniques. Mathematical models for real life applications; algorithms; aspects of computational complexity; geometry; linear programming duality, focusing on the development of algorithms.
 
-Heading 1
+[Outline of the course](https://outline.uwaterloo.ca/view/n4aszz)
+
 ======
 
