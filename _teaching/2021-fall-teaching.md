@@ -25,6 +25,6 @@ Topics:
 
 ======
 
-[View Course Syllabus Here](https://feiwang-carrot.github.io/files/CO367SyllabusF21.pdf)
+[Course Syllabus Here](https://feiwang-carrot.github.io/files/CO367SyllabusF21.pdf)
 
-[View Course Notes Here](https://feiwang-carrot.github.io/files/CO367NotesFall2021.pdf)
+[Course Notes Here](https://feiwang-carrot.github.io/files/CO367NotesFall2021.pdf)
