@@ -28,4 +28,4 @@ Tuesday and Thursday 14:30 - 15:50 MC 4058
 
 [View Course Syllabus Here](https://feiwang-carrot.github.io/files/CO367SyllabusF21.pdf)
 
-[View Course Notes Here] (https://feiwang-carrot.github.io/files/CO367NotesFall2021.pdf)
+[View Course Notes Here](https://feiwang-carrot.github.io/files/CO367NotesFall2021.pdf)
