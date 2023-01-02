@@ -15,4 +15,4 @@ A broad introduction to the field of optimization, discussing applications, and 
 [Outline of the course](https://outline.uwaterloo.ca/view/n4aszz)
 ======
 [Notes of the course](https://feiwang-carrot.github.io/files/CO250NotesS22.pdf)
-
+======
