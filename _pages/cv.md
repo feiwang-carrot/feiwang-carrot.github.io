@@ -17,9 +17,8 @@ Education
 
 Work experience
 ======
-*  2017 - 2019: Postdoctoral researcher
+* 2017 - 2019: Postdoctoral researcher
   * Royal Institute of Technology, Stockholm, Sweden
-  
 * 2019- 2020: Postdoctoral researcher and sessional instructor
   * University of Waterloo, Waterloo, Canada
 * 2021- 2023: Fields Ontario Postdoctoral Researcher
