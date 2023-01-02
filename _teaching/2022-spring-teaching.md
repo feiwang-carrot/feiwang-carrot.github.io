@@ -1,5 +1,5 @@
 ---
-title: "CO250 Introduction to optimization"
+title: "CO250 Introduction to optimization, Spring 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching
