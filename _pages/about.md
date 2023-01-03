@@ -22,7 +22,7 @@ My research interests are:
 
 3. Distance geometry, Matrix completion and rigidity theory and their connections with optimization.
 
-For more info about my research please visit my [publication](https://feiwang-carrot.github.io/publications/).
+For more info about my research please visit my [publications](https://feiwang-carrot.github.io/publications/).
 
 My contact Info
 ------
