@@ -8,4 +8,4 @@ This is the matlab code for doing Robust Principal Component Analysis (RPCA) ass
 
 ======
 
-[Down the zip file](https://feiwang-carrot.github.io/files/RPCAcode.zip)
+[Download the zip file](https://feiwang-carrot.github.io/files/RPCAcode.zip)
