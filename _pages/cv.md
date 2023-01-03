@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-<!-- * B.S. in GitHub, GitHub University, 2012 -->
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+* B.S. in Mathematics and Applied Mathematics, University of Science and Technology, Beijing, China, 2010 
+* M.S. in Computational Mathematics, University of Waterloo, Canada, 2011
 * Ph.D in Applied Mathematics, Western University, Canada, 2017
 
 Work experience
