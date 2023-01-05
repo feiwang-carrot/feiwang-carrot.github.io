@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Fei Wang"
 description              : &description "Postdoctoral researcher at Fields Institute and University of Waterloo"
