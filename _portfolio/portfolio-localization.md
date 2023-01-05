@@ -1,5 +1,5 @@
 ---
-title: "Euclidean Distance Matrix Completion"
+title: "Euclidean Distance Matrix Completion Code"
 excerpt: "Code for Euclidean Distance Matrix Completion"
 collection: portfolio
 ---
