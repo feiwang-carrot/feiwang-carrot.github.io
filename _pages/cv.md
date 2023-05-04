@@ -15,18 +15,20 @@ Education
 * M.S. in Computational Mathematics, University of Waterloo, Canada, 2011
 * Ph.D in Applied Mathematics, Western University, Canada, 2017
 
+<!--
 Work experience
 ======
 * 2017 - 2019: Postdoctoral researcher
-  * Royal Institute of Technology, Stockholm, Sweden
+ * Royal Institute of Technology, Stockholm, Sweden
 * 2019- 2020: Postdoctoral researcher and sessional instructor
-  * University of Waterloo, Waterloo, Canada
+ * University of Waterloo, Waterloo, Canada
 * 2021- 2023: Fields Ontario Postdoctoral Researcher
-  * Fields Institute, Toronto, Canada. (hosted by University of Waterloo)
+ * Fields Institute, Toronto, Canada. (hosted by University of Waterloo)
+-->
   
 Skills
 ======
-* Programming language: Matlab, Python, C
+* Programming language: Matlab, Python
 
 Publications
 ======
