@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my home on the web!
 ======
-I am currently a postdoctoral researcher at Fields Institute and University of Waterloo working in the field of optimization and combinatorial rigidity. From January 2021 to July 2021, I am a participant in the fields Thematic program on the Geometric Constraint Systems, Framework Rigidity, and Distance Geometry. 
+I am currently working at PoissonSoft as an Algorithm Enginneer in the constraint solver team, my major role is to develop and optimize the nonlinear solver used in the constraint solver. Previously I was a researcher at Fields Institute and University of Waterloo working in the field of optimization and combinatorial rigidity.
 From September 2017 to August 2019, I am a postdoctoral researcher at Department of Mathematics, KTH, Sweden. Prior to that, I completed my PhD study in Applied Mathematics at Western University.
 
 My research interests are: 
